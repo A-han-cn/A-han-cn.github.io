@@ -40,7 +40,7 @@ var binft = function (r) {
             setTimeout(i, d)
     }
     var l = "",
-        o = ["忙着可爱😊","饿了么,一起来学习吧",].map(function (r) {
+        o = ["忙着可爱！","饿了么,一起来学习吧",].map(function (r) {
             return r + "."
         }),
         a = 2,
